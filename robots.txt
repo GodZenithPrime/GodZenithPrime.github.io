@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://godzenithprime.github.io/en/sitemap.xml
+Sitemap: https://godzenithprime.github.io/sitemap.xml

@@ -6,8 +6,11 @@
 >{{< style "text-align:center; font-weight:bold" >}} 即使身边世事在毫无道理， 与你永远亦连在一起 {{< /style >}}
 {{< style "text-align:center; font-weight:bold" >}} 你不放下我 我不放下你，我想确定每日挽住同样的手臂 {{< /style >}}
 {{< style "text-align:right; font-weight:bold" >}} ——《相依为命》 {{< /style >}}
-
 <br/><br/>
+
+{{< music url="/music/sameplace.m4a" name=同一个地方 artist="少女On Top" cover="/images/同一个地方.png" autoplay=true >}}
+<br/><br/>
+
 
 {{< image src="/images/mylove/mylove1.jpg" weight=400 height=400 caption="" >}}
 {{< style "text-align:center; font-weight:bold" >}} 十亩地脱口秀:grin: {{< /style >}}
@@ -52,9 +55,6 @@
 {{< image src="/images/mylove/mylove11.jpg" weight=1200 height=600 caption="" >}}
 {{< style "text-align:center; font-weight:bold" >}} 浮世绘:clapper: {{< /style >}}
 <br/>
-
-
-{{< music url="/music/sameplace.m4a" name=同一个地方 artist="少女On Top" cover="/images/同一个地方.png" autoplay=true >}}
 
 
 
