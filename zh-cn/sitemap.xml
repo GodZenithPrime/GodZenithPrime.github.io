@@ -32,16 +32,4 @@
                     hreflang="zh-cn"
                     href="https://godzenithprime.github.io/tags/"
                     /></url><url>
-            <loc>https://godzenithprime.github.io/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://godzenithprime.github.io/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://godzenithprime.github.io/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://godzenithprime.github.io/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://godzenithprime.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://godzenithprime.github.io/en/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://godzenithprime.github.io/categories/documentation/"
-                    /></url></urlset>
+            <loc>https://godzenithprime.github.io/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
