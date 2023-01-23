@@ -3,7 +3,7 @@
 
 <br/><br/>
 
->{{< style "text-align:center; font-weight:bold" >}} 即使身边世事在毫无道理， 与你永远亦连在一起 {{< /style >}}
+{{< style "text-align:center; font-weight:bold" >}} 即使身边世事在毫无道理， 与你永远亦连在一起 {{< /style >}}
 {{< style "text-align:center; font-weight:bold" >}} 你不放下我 我不放下你，我想确定每日挽住同样的手臂 {{< /style >}}
 {{< style "text-align:right; font-weight:bold" >}} ——《相依为命》 {{< /style >}}
 <br/><br/>

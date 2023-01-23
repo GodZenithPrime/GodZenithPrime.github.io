@@ -1,12 +1,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>GodZenith Blog</title>
+        <title>GodZenith&#39;s blog</title>
         <link>https://godzenithprime.github.io/</link>
         <description>GodZenith&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>17519499258@163.com (郭琢)</managingEditor>
-            <webMaster>17519499258@163.com (郭琢)</webMaster><copyright>版权归属于GodZenith</copyright><lastBuildDate>Mon, 09 Jan 2023 12:00:00 &#43;0800</lastBuildDate>
+            <webMaster>17519499258@163.com (郭琢)</webMaster><copyright>版权归属于GodZenith</copyright><lastBuildDate>Mon, 23 Jan 2023 16:51:39 &#43;0800</lastBuildDate>
             <atom:link href="https://godzenithprime.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Main</title>
+    <link>https://godzenithprime.github.io/main/</link>
+    <pubDate>Mon, 23 Jan 2023 16:51:39 &#43;0800</pubDate>
+    <author>郭琢</author>
+    <guid>https://godzenithprime.github.io/main/</guid>
+    <description><![CDATA[这是描述]]></description>
+</item>
+<item>
     <title>广州之旅</title>
     <link>https://godzenithprime.github.io/gz/</link>
     <pubDate>Mon, 09 Jan 2023 12:00:00 &#43;0800</pubDate>
