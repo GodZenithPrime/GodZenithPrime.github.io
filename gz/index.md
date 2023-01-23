@@ -56,7 +56,7 @@
 <br/>
 
 {{< image src="/images/gz/gz14.jpg" weight=600 height=600 caption="" >}}
-{{< style "text-align:center; font-weight:bold" >}} 美人夕照相映红，我欲揽怀晚霞飞 {{< /style >}}
+{{< style "text-align:center; font-weight:bold" >}} 美人夕照相映红，我欲揽怀晚霞飞! {{< /style >}}
 <br/>
 
 
