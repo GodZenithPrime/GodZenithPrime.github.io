@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - My New Hugo Site</title>
+        <title>所有文章 - GodZenith Blog</title>
         <link>https://godzenithprime.github.io/posts/</link>
-        <description>所有文章 | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>17519499258@163.com (郭琢)</managingEditor>
-            <webMaster>17519499258@163.com (郭琢)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 09 Jan 2023 12:00:00 &#43;0800</lastBuildDate><atom:link href="https://godzenithprime.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>所有文章 | GodZenith Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>17519499258@163.com (郭琢)</managingEditor>
+            <webMaster>17519499258@163.com (郭琢)</webMaster><copyright>版权归属于GodZenith</copyright><lastBuildDate>Mon, 09 Jan 2023 12:00:00 &#43;0800</lastBuildDate><atom:link href="https://godzenithprime.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>广州之旅</title>
     <link>https://godzenithprime.github.io/gz/</link>
     <pubDate>Mon, 09 Jan 2023 12:00:00 &#43;0800</pubDate>

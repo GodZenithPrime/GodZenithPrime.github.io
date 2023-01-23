@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loves on My New Hugo Site</title>
+    <link>https://godzenithprime.github.io/love/</link>
+    <description>Recent content in Loves on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>17519499258@163.com (郭琢)</managingEditor>
+    <webMaster>17519499258@163.com (郭琢)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 09 Jan 2023 12:00:00 +0800</lastBuildDate><atom:link href="https://godzenithprime.github.io/love/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>广州之旅</title>
+      <link>https://godzenithprime.github.io/love/gz/</link>
+      <pubDate>Mon, 09 Jan 2023 12:00:00 +0800</pubDate>
+      <author>17519499258@163.com (郭琢)</author>
+      <guid>https://godzenithprime.github.io/love/gz/</guid>
+      <description>亲亲合照😁 不熟练的姿势😚 打卡永庆坊💓 今日份红红火火！ 手捧花花😍 抓到野生的圣诞老人!🌼 傲娇の兔兔 正在前往广东省博物馆☺️ 又香又辣！💥 最爱凤爪！</description>
+    </item>
+    
+    <item>
+      <title>MyLove</title>
+      <link>https://godzenithprime.github.io/love/mylove/</link>
+      <pubDate>Thu, 22 Dec 2022 12:00:00 +0800</pubDate>
+      <author>17519499258@163.com (郭琢)</author>
+      <guid>https://godzenithprime.github.io/love/mylove/</guid>
+      <description>即使身边世事在毫无道理， 与你永远亦连在一起 你不放下我 我不放下你，我想确定每日挽住同样的手臂 ——《相依为命》 十亩地脱口秀😁 夜游深圳湾😚 第一次正</description>
+    </item>
+    
+  </channel>
+</rss>
